@@ -1,3 +1,5 @@
+# This code should be pasted to a new node in the Qolab setup with the name 24_allxy
+
 from qualibrate import QualibrationNode, NodeParameters
 from quam_libs.components import QuAM, Transmon
 from quam_libs.macros import qua_declaration, active_reset, readout_state
