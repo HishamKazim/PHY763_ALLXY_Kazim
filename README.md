@@ -1,0 +1,1 @@
+This repoistory includes the code and the versioned parameters. The code is the QUA-based ALLXY implementation which is located in the code/calibration_graph/24_Allxy file and this is placed in the respective file in the Qolab node to run smoothly. The versioned parameters are the ones that were run in the experiment and they can be used when setting them up.
